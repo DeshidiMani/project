@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DkDaqtNooBK0xHnKMMutL9VcReAYku9de24ik6DaVfo=",
+  "Source": "LMS-PORTAL",
+  "BasePath": "_content/LMS-PORTAL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
